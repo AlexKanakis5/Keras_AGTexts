@@ -1,2 +1,2 @@
 # Keras_AGTexts
-Prediction of text era using keras 
+Prediction of Ancient Greek text date using keras 
